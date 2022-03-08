@@ -27,10 +27,10 @@ const GlobalStyle = createGlobalStyle`
 
 const Layout = ({ children }) => {
   const darkTheme = {
-    background: "#111827",
+    background: "#1b1b22",
     secondaryBackground: "#374151",
-    text: "#F9FAFB",
-    button: "#E5E7EB",
+    text: "#03DAC6",
+    button: "#FF0266",
   };
 
   const lightTheme = {
