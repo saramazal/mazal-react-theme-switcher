@@ -34,22 +34,19 @@ const Home = () => {
       </NavBar>
       <Body>
         <Container>
-          <Heading>Hello</Heading>
+          <Heading>Happy Hacking!</Heading>
           <SubPara>
-            What's up! Toggle the switch above to change the theme
+          "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
+    ~ Stephen Hawking
           </SubPara>
           <Content>
             <Container>
               <Flex center column>
-                <Heading>Article</Heading>
+                <Heading>"Don't watch the clock.</Heading>
                 <Para>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Reprehenderit quis ipsa, sunt, consectetur voluptate dolores
-                  pariatur nisi distinctio iusto vero iure officia. Vero sunt,
-                  ducimus sit eveniet dolor impedit itaque voluptate ipsam!
-                  Omnis totam, beatae dicta fugit praesentium fugiat dolores
-                  laborum, officiis, labore aperiam tempore! Debitis, provident!
-                  Rem, exercitationem enim?
+               
+                 Do what it does. Keep going."
+    ~ Sam Levenson
                 </Para>
               </Flex>
             </Container>
