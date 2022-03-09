@@ -9,7 +9,7 @@ export const Container = styled.div`
   ${(props) =>
     props.fluid &&
     css`
-      padding: 0;
+      padding-right: 20px;
       margin: 0;
       max-width: 100%;
     `}
@@ -21,7 +21,7 @@ export const Flex = styled.div`
   ${(props) =>
     props.center &&
     css`
-      justify-content: center;
+      justify-content: right;
     `};
   ${(props) =>
     props.column &&
